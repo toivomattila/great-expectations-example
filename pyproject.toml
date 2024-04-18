@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "gx-playground"
+version = "0.1.0"
+description = ""
+authors = ["Toivo Mattila <toivo.mattila@virnex.fi>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.10.13"
+great-expectations = "^0.18.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
