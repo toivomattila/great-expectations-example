@@ -2,8 +2,9 @@
 name = "gx-playground"
 version = "0.1.0"
 description = ""
-authors = ["Toivo Mattila <toivo.mattila@virnex.fi>"]
+authors = ["Toivo Mattila"]
 readme = "README.md"
+package-mode = false
 
 [tool.poetry.dependencies]
 python = "3.10.13"
